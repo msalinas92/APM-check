@@ -19,9 +19,12 @@ venv.bak/
 # Logs and txt files
 *.log
 *.txt
+!requirements.txt
 pip-log.txt
 pip-delete-this-directory.txt
 
 # Environment variables
 .env
 .env.*
+apmcheck.egg-info/
+install.sh

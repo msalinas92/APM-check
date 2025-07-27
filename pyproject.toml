@@ -8,7 +8,7 @@ version = "0.1.0"
 description = "CLI tool to detect APM coverage (Datadog, OpenTelemetry)"
 authors = [{name = "Matias Salinas", email = "support@fenden.com"}]
 readme = "README.md"
-license = {text = "MIT"}
+license = "MIT"
 requires-python = ">=3.7"
 dependencies = [
   "click>=8.0.0",
